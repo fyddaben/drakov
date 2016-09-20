@@ -1,6 +1,6 @@
 {
-  "name": "drakov",
-  "version": "1.0.1",
+  "name": "drakovNew",
+  "version": "0.0.1",
   "description": "Mock server that implements the API Blueprint specification",
   "main": "./index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/aconex/drakov",
   "author": {
-    "name": "Yakov Khalinsky",
+    "name": "Yakov Khalinsky update by daben",
     "email": "ykhalinsky@aconex.com"
   },
   "repository": {

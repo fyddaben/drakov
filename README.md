@@ -1,4 +1,5 @@
 # Drakov API Blueprint Mock Server
+> This version is copy from [Drakov](https://www.npmjs.com/package/drakov).
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aconex/drakov?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
